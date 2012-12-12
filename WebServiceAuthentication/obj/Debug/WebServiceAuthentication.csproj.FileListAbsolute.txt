@@ -1,0 +1,5 @@
+c:\WebServiceAuthentication\WebServiceAuthentication\bin\WebServiceAuthentication.dll
+c:\WebServiceAuthentication\WebServiceAuthentication\bin\WebServiceAuthentication.pdb
+c:\WebServiceAuthentication\WebServiceAuthentication\obj\Debug\ResolveAssemblyReference.cache
+c:\WebServiceAuthentication\WebServiceAuthentication\obj\Debug\WebServiceAuthentication.dll
+c:\WebServiceAuthentication\WebServiceAuthentication\obj\Debug\WebServiceAuthentication.pdb
